@@ -9,7 +9,7 @@ The `wc` tool is a simple utility that counts the number of words in a given tex
 
 ## Contributors
 
-- **[Your Name]** - @ASHUdev05
+- **@ASHUdev05**
 
 Feel free to contribute by submitting pull requests or opening issues.
 
